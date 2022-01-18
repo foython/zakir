@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Vison
+from .models import Vision
 # Register your models here.
-admin.site.register(Vison)
+admin.site.register(Vision)
 # Register your models here.

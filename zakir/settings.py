@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'offer',
     'staff',
     'applink',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
